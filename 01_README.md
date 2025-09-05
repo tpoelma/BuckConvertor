@@ -1,7 +1,7 @@
 # CHG_USB_A_CHARGER
 
 ## Overview
-This project is a 12V-to-5V USB-C car charger designed as an introductory electrical engineering project. It steps down 12V DC from a car outlet to a regulated 5V USB output using a buck converter circuit.
+This project is a 12V-to-5V USB-C car charger designed as an introductory electrical engineering project. It steps down 12V DC from a car outlet or bench power supply to a regulated 5V USB output using a buck converter circuit.
 
 ## Folder Structure
 - `02_Project_Summary.docx` - Project goal and high-level requirements.
@@ -20,4 +20,5 @@ This project is a 12V-to-5V USB-C car charger designed as an introductory electr
 
 ## Notes
 Created 29 June 2025
+
 Budget: $200
