@@ -20,6 +20,4 @@ This project is a 12V-to-5V USB-C car charger designed as an introductory electr
 
 ## Notes
 Created 29 June 2025
-
 Budget: $200
-
