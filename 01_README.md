@@ -14,7 +14,7 @@ This project is a 12V-to-5V USB-C car charger designed as an introductory electr
 ## Status
 - Project documentation created, in active use.
 - Component selection in progress.
-- Schematic capture in progress.
+- Schematic capture complete - V3 finished 4 Sept. 2025.
 - Layout not yet started.
 - Testing not yet started.
 
@@ -22,3 +22,4 @@ This project is a 12V-to-5V USB-C car charger designed as an introductory electr
 Created 29 June 2025
 
 Budget: $200
+
