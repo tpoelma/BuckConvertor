@@ -1,7 +1,7 @@
 # CHG_USB_C_CHARGER
 
 ## Overview
-This project is a 12V-to-5V USB-C car charger designed as an introductory electrical engineering project. It steps down 12V DC from a car outlet or bench power supply to a regulated 5V USB output using a buck converter circuit.
+This project is a 12V-to-5V USB-C car charger designed as an introductory electrical engineering project. It steps down 12V DC from a car outlet or bench power supply to a regulated 5V USB output using a buck converter circuit. This design uses the MP2326 IC to achieve a 5V, 3A (15W) regulated output.
 
 ## Folder Structure
 - `02_Project_Summary.docx` - Project goal and high-level requirements.
